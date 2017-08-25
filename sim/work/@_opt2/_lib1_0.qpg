@@ -1,0 +1,366 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/vhdlp23
+T_opt
+!s110 1502640467
+V@oXVA1h=4UHzY:JA8gXOA0
+04 9 4 work testbench fast 0
+=1-001e67589ce5-59907953-bb9ee-1aefc
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.3d;59
+R0
+T_opt1
+!s110 1502485103
+V3UXP]UR<[Y>2@IJ6ihal`2
+04 3 4 work cpu fast 0
+=1-001e67589ce5-598e1a6f-9aeb8-36baa
+R1
+n@_opt1
+R2
+R0
+T_opt2
+!s110 1502655530
+VnnH23Y`MKL3HXAPzgD<Q61
+04 6 4 work decode fast 0
+=1-001e67589ce5-5990b42a-ce7ab-dd0
+R1
+n@_opt2
+R2
+vaccumulator
+Z3 !s110 1502655246
+!i10b 1
+!s100 UjnNTE>TK2;K;c6AOS]V`0
+IlU7OWfBN_>c<?4EclZ;Y;1
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+Z5 d/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim
+w1502544473
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/accumulator.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/accumulator.v
+L0 3
+Z6 OL;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1502655246.895365
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/accumulator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/accumulator.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu
+R3
+!i10b 1
+!s100 Oh0ecPV2nLWm?ehCoY_mj0
+I2VebMIE_Jh>`;FI[W79P50
+R4
+R5
+w1502642642
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/alu.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/alu.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1502655246.957355
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/alu.v|
+!i113 0
+R7
+vapsr
+Z8 !s110 1502655247
+!i10b 1
+!s100 AYO=z6WJYUNGkUIZNO_:o1
+I:VGFZ;Y3BDjBMiRVizz3z1
+R4
+R5
+w1502412368
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/apsr.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/apsr.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1502655247.041958
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/apsr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/apsr.v|
+!i113 0
+R7
+vbranch
+R8
+!i10b 1
+!s100 _XX4Ek2CGOQ0KZJF@o<MT1
+IVnSz?Q>X<SE]fWbFf8KGC1
+R4
+R5
+w1502635055
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/branch.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/branch.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1502655247.083556
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/branch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/branch.v|
+!i113 0
+R7
+vcontrol_block
+R8
+!i10b 1
+!s100 2HT=zVRoZgZ`KjAIQ4ll33
+ILno9HEJ3oZRaGKi4zFh7@1
+R4
+R5
+w1502643346
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1502655247.137143
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block.v|
+!i113 0
+R7
+vcontrol_block_tb
+Z9 !s110 1502622085
+!i10b 1
+!s100 HjISWoXc2ibPdQAM8JN]I2
+IFe5liLc1Pl<Y@OJ7z`]iP1
+R4
+R5
+Z10 w1502394154
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block_tb.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block_tb.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1502622085.470541
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/control_block_tb.v|
+!i113 0
+R7
+vcounter
+R8
+!i10b 1
+!s100 TznGm<7UmQZR;2821e2@70
+IMR]ff2z6bz]J0l@<dXVOI1
+R4
+R5
+w1502563815
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/counter.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/counter.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1502655247.193066
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/counter.v|
+!i113 0
+R7
+vcpu
+R8
+!i10b 1
+!s100 [;?TgYQ]P>j^mDZUY?aQo1
+IbWd:@^VhW_h1TDYza1Goh3
+R4
+R5
+w1502642879
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1502655247.243575
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu.v|
+!i113 0
+R7
+vcpu_tb
+R9
+!i10b 1
+!s100 FkBd`6m2EBDU5DT1QzVDm3
+I?zUm[ABJz0aAjaJJo6VL<0
+R4
+R5
+R10
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu_tb.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu_tb.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1502622085.575172
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/cpu_tb.v|
+!i113 0
+R7
+vdecode
+R8
+!i10b 1
+!s100 jkC1mXmWZE>]_SK=KZnGU0
+IT:O6ka3^T<Onj02gZEHoP3
+R4
+R5
+w1502648336
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode.v
+L0 6
+R6
+r1
+!s85 0
+31
+!s108 1502655247.294386
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode.v|
+!i113 0
+R7
+vdecode_buffer
+!s110 1502487748
+!i10b 1
+!s100 MZz55V7oGROSY5TNZm]2b3
+IBmenzbUV7<XbNRLne`PKX1
+R4
+R5
+w1502444828
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_buffer.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_buffer.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1502487748.922457
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_buffer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_buffer.v|
+!i113 0
+R7
+vdecode_tb
+R9
+!i10b 1
+!s100 bdB:i[c0XXHYY7[;KJg^C1
+I94G^6eSVjJh9kJjQG5R@E2
+R4
+R5
+w1502491555
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_tb.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1502622085.690801
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decode_tb.v|
+!i113 0
+R7
+vdecrement_count
+R8
+!i10b 1
+!s100 nl7hSUUN0CnTPo1CjjkS50
+IjZi?;1g@b1_cnZDKgWWFX2
+R4
+R5
+w1502566964
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decrement_count.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decrement_count.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1502655247.355510
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decrement_count.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/decrement_count.v|
+!i113 0
+R7
+vdemux12
+R8
+!i10b 1
+!s100 <NZlnz]COi;LMOIY^;bE[0
+I16BLLjc?I:c329O;Y9F;^0
+R4
+R5
+w1502461800
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/demux12.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/demux12.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1502655247.399526
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/demux12.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/demux12.v|
+!i113 0
+R7
+vfetch
+R8
+!i10b 1
+!s100 lz1B6dWcAdMED_m_Xgf6d2
+IQlOfnPlL>F`P1657??]a@2
+R4
+R5
+R10
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/fetch.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/fetch.v
+L0 5
+R6
+r1
+!s85 0
+31
+!s108 1502655247.436985
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/fetch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/fetch.v|
+!i113 0
+R7
+vinverter
+R8
+!i10b 1
+!s100 ^?iF0UVdY1MIBGMMIlCG40
+IG>h?CA60ijh3]Y]F`D^Mf3
+R4
+R5
+w1502642208
+8/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/inverter.v
+F/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/inverter.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1502655247.479832
+!s107 /home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/inverter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/vhdlp23/Desktop/hdl_lab/HDL_Lab/sources/sim/inverter.v|
+!i113 0
+R7
+vmemory
+Z11 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+R8
+!i10b 1
+!s100 An=R:H>h3K[onT5[DN1<;0
+IG[iKVdM2LQnMD?b6^N<Rb0
+R4
+!s105 memory_sv_unit
+S1
+R5
